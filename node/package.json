@@ -1,0 +1,23 @@
+{
+  "name": "twitchchatbot",
+  "version": "1.0.0",
+  "description": "backend half of twitch arduino bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/parser-readline": "^8.0.6",
+    "delay": "^4.3.0",
+    "serialport": "^8.0.7",
+    "tmi.js": "^1.5.0",
+    "twitch-js": "^1.2.17"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://localhost"
+  }
+}
