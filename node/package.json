@@ -1,5 +1,5 @@
 {
-  "name": "twitchchatbot",
+  "name": "nodeChatBot",
   "version": "1.0.0",
   "description": "backend half of twitch arduino bridge",
   "main": "index.js",
